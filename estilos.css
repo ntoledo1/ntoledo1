@@ -4,7 +4,8 @@ body{
 }
 p{color: red;}
 h2{color: violet;
-text-align: center;}
+text-align: center;
+font-size: 50px;}
 pre{
     color: coral;
 }
